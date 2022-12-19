@@ -1,0 +1,14 @@
+.max-height {
+  max-height: 426px;
+}
+
+.tamano {
+  width: 100px;
+  height: 150px;
+}
+
+.row .card-body:hover {
+  color: #007bff;
+  background-color: white;
+}
+
